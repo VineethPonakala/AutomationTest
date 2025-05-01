@@ -29,6 +29,8 @@ public class MultiTest1 {
 
         System.out.println("Handling MouseHovering");
 
+        System.out.println("ABC");
+
         WebElement accountList = driver.findElement(By.id("nav-link-accountList"));
 
         Actions act = new Actions(driver);
