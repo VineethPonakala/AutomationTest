@@ -26,6 +26,8 @@ public class MultiTest3 {
         System.out.println(driver.getTitle());
 
         System.out.println(driver.getCurrentUrl());
+
+        System.out.println("Hello");
     }
 
 
